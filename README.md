@@ -24,6 +24,7 @@ This is a bot script that will allow you to send multiple images to Discord chan
 - Doesn't try to send files bigger than Discord Limitations (10mb).
 - Unlimited File Count.
 - No need for cloud host, works on your machine, open source, no chance for token steal.
+- PREFIX - !dib
 
 
 
