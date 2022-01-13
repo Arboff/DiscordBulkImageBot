@@ -10,12 +10,12 @@ This is a bot script that will allow you to send multiple images to Discord chan
 - Python 3.9
 - Discord.py (pip install discord)
 - Discord bot with the following permissions:
--- Send Messages.
--- Send Messages in Threads.
--- Send TTS Messages.
--- Embed Links (In case you need to send a link as a footer.).
--- Attach Files.
--- Use Slash Commands.
+- Send Messages.
+- Send Messages in Threads.
+- Send TTS Messages.
+- Embed Links (In case you need to send a link as a footer.).
+- Attach Files.
+- Use Slash Commands.
 
 ## Features
 
