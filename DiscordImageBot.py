@@ -44,7 +44,7 @@ async def on_message(message, count=0):
                 print('File size exceeds 10 000 000 bytes. :' + filename)
  
         await message.channel.send(link)
-        print(f'Sucessfully uploaded {count} files.')   #logout. Continues to listen for commands after.
+        #print(f'Sucessfully uploaded {count} files.')   Final log. Uncomments if you want to get log in console of how many files were transfered.
         
  
  
