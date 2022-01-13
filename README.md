@@ -32,7 +32,11 @@ This is a bot script that will allow you to send multiple images to Discord chan
 
 DIB requires [Python ](https://www.python.org/)  3.9 to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies via Python Console / Linux Terminal.
+
+Run using:
+cd DiscordBulkImageBot
+python3 main.py
 
 ```sh
 pip install discord
